@@ -1,0 +1,119 @@
+{
+	"expand": "full",
+	"id": 25240758,
+	"first_name": "Wawan",
+	"picture": {
+		"url": "https://www.endomondo.com/resources/gfx/image/39076333/a5ad41e71a74240a829b8d6c3175a53b/thumbnail.jpg"
+	},
+	"gender": 0,
+	"is_premium": false,
+	"height": 168,
+	"date_of_birth": "1980-03-26T17:00:00.000Z",
+	"workout_count": 129,
+	"friend_count": 0,
+	"summary": {
+		"count": 129,
+		"total_distance": 337.90351699054247,
+		"total_duration": 147659,
+		"total_calories": 29574.8
+	},
+	"summary_by_sport": [
+		{
+			"sport": 0,
+			"count": 125,
+			"total_distance": 317.75916264712816,
+			"total_duration": 141929,
+			"total_calories": 28766.8
+		},
+		{
+			"sport": 2,
+			"count": 3,
+			"total_distance": 17.119893312454224,
+			"total_duration": 4331,
+			"total_calories": 585
+		},
+		{
+			"sport": 22,
+			"count": 1,
+			"total_distance": 3.024461030960083,
+			"total_duration": 1399,
+			"total_calories": 223
+		},
+		{
+			"sport": 26,
+			"count": 1,
+			"total_distance": 3.024461030960083,
+			"total_duration": 1399,
+			"total_calories": 223
+		}
+	],
+	"created_date": "2015-10-11T03:38:55.000Z",
+	"has_dismissed_download_box": true,
+	"country": "GB",
+	"personal_bests": [
+		{
+			"workout_id": 825296175,
+			"sport": 0,
+			"date": "2016-10-23T00:15:23.000Z",
+			"type": 0,
+			"value": 1.9090922408633761
+		},
+		{
+			"workout_id": 818819544,
+			"sport": 0,
+			"date": "2016-10-08T23:27:53.000Z",
+			"type": 31,
+			"value": 4.027153015136719
+		},
+		{
+			"workout_id": 825296175,
+			"sport": 0,
+			"date": "2016-10-23T00:15:23.000Z",
+			"type": 6,
+			"value": 338.6348361064355
+		},
+		{
+			"workout_id": 825296175,
+			"sport": 0,
+			"date": "2016-10-23T00:15:23.000Z",
+			"type": 20,
+			"value": 592.325244003575
+		},
+		{
+			"workout_id": 794363380,
+			"sport": 0,
+			"date": "2016-08-27T23:27:26.000Z",
+			"type": 9,
+			"value": 1221.7821782178219
+		},
+		{
+			"workout_id": 818819544,
+			"sport": 0,
+			"date": "2016-10-08T23:27:53.000Z",
+			"type": 33,
+			"value": 365
+		},
+		{
+			"workout_id": 905675911,
+			"sport": 2,
+			"date": "2017-04-14T23:37:40.000Z",
+			"type": 31,
+			"value": 9.808144569396973
+		},
+		{
+			"workout_id": 905675911,
+			"sport": 2,
+			"date": "2017-04-14T23:37:40.000Z",
+			"type": 32,
+			"value": 2272
+		},
+		{
+			"workout_id": 905675911,
+			"sport": 2,
+			"date": "2017-04-14T23:37:40.000Z",
+			"type": 33,
+			"value": 334
+		}
+	],
+	"name": "Wawan",
+	"viewer_friendship": 1
