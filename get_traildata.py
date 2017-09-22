@@ -167,10 +167,10 @@ def get_traildata(currentID, workoutID, gender, height, date_of_birth, country, 
 
 def getuser_workouts(userID, gender, height, date_of_birth, created_date, country):
 
-    urlrootworkouts = "https://www.endomondo.com/rest/v1/users/"
+    url_root_workouts = "https://www.endomondo.com/rest/v1/users/"
     start_date = created_date
     end_date = datetime.now().strftime('%Y-%m-%d')
-    url_workouts = urlrootworkouts + str(userID) + "/workouts?before=" + end_date + "&after=" + str(start_date)[:10]
+    url_workouts = url_root_workouts + str(userID) + "/workouts?before=" + end_date + "&after=" + str(start_date)[:10]
     print("left " + str(users_left) + " out of " + str(users_to_process) + " users to process ")
     print(url_workouts)
     response = requests.get(url_workouts, headers={'User-Agent': 'Chrome/59.0.3071.115'})
